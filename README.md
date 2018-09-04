@@ -7,4 +7,4 @@ ffrrfrefrefs
 
 ok
 
-test
+test ok
